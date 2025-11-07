@@ -30,12 +30,12 @@ Phase 1 demonstrates a **functionally correct system** consisting of:
 ## System Architecture
 The system follows a **three-tier design**:
 
-    +----------------------------+
-    |           Clients          |
-    |  (Concurrent HTTP Threads) |
-    +-------------+--------------+
-                  |CRUD commands
-                  v
++----------------------------+
+|           Clients          |
+|  (Concurrent HTTP Threads) |
++-------------+--------------+
+              |
+              v
 +-----------------------------------+
 |   HTTP Server (Frontend)          |
 |   - Thread Pool                   |
