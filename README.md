@@ -60,7 +60,7 @@ The system is designed to explore bottlenecks in a layered storage system — CP
 
 ---
 
-# Features (Completed Project)
+# Features
 
 ## ✔ 1. Fully Functional HTTP KV Store
 
