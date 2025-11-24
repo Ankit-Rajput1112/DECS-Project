@@ -19,7 +19,7 @@ The system is designed to explore bottlenecks in a layered storage system — CP
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 .
